@@ -1,15 +1,26 @@
-# 🚀 YouTube Audio converter 
+# 🚀 YouTube Audio Converter  
 
-Un extractor de alto rendimiento construido en Python. 
-Este proyecto permite convertir videos de YouTube a formato MP3 con la máxima calidad, eliminando la necesidad de instalar herramientas pesadas o lidiar con configuraciones complejas de códecs.
+<img width="1280" height="720" alt="YouTube Audio Converter" src="https://github.com/user-attachments/assets/3cfbd59d-6ed6-4859-9c57-33130c4dda4c" />
+
+Un extractor de **alto rendimiento** desarrollado en **Python**.  
+Este proyecto permite **convertir videos de YouTube a formato MP3 con la máxima calidad**, sin necesidad de herramientas pesadas ni configuraciones complicadas de códecs.
+
+---
 
 ## ✨ Características Principales
-* **Gestión Automática:** El script se encarga de crear los directorios necesarios y organizar las descargas por ti.
+
+- ⚙️ **Gestión Automática:** El script crea y organiza los directorios necesarios por ti.  
+- 🎵 **Conversión de Alta Calidad:** Extrae el audio en formato MP3 con la mejor fidelidad disponible.  
+- ⚡ **Rendimiento Optimizado:** Descargas rápidas y conversión eficiente gracias al uso de librerías actualizadas.  
+- 🧠 **Interfaz Sencilla:** Solo necesitas pegar el enlace del video y el programa se encarga del resto.  
+
+---
 
 ## 🛠️ Instalación y Configuración
-Para garantizar que el extractor funcione correctamente, sigue estos pasos para configurar tu entorno de desarrollo:
 
-1. **Clona este repositorio** en tu máquina local.
-2. **Instala las dependencias optimizadas** ejecutando el siguiente comando en tu terminal:
+Sigue estos pasos para configurar tu entorno y comenzar a usar el extractor:
+
+1. **Clona este repositorio** en tu máquina local:
    ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/AgustinGibaut/mp4tomp3converter_youtube.git
+   cd mp4tomp3converter_youtube
